@@ -1,12 +1,12 @@
 {
   "name": "indent-rainbow",
   "main": "./lib/indent-rainbow",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Coloring the codeblock indent with rainbow",
   "keywords": [
-   "inkdrop",
-   "indent",
-   "rainbow"
+    "inkdrop",
+    "indent",
+    "rainbow"
   ],
   "repository": "https://github.com/skipadu/inkdrop-indent-rainbow",
   "author": {
@@ -16,6 +16,5 @@
   "engines": {
     "inkdrop": "^4.x"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
